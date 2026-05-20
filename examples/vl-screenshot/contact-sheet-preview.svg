@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Feature screenshot review contact sheet preview</title>
+  <desc id="desc">A mock contact sheet showing four screenshot cards in a two-column grid.</desc>
+  <rect width="1200" height="760" fill="#f5f6f8"/>
+  <text x="64" y="70" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="34" font-weight="700">Feature Screenshot Review</text>
+  <text x="64" y="108" fill="#5b6472" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18">Full flow screenshots. Click any image for detail.</text>
+  <g transform="translate(64 150)">
+    <g>
+      <rect width="510" height="250" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+      <rect width="510" height="44" rx="14" fill="#ffffff"/>
+      <text x="18" y="28" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="700">1. Start</text>
+      <rect x="18" y="62" width="474" height="168" rx="10" fill="#eef1f5"/>
+      <rect x="44" y="90" width="180" height="16" rx="8" fill="#94a3b8"/>
+      <rect x="44" y="120" width="405" height="12" rx="6" fill="#cbd5e1"/>
+      <rect x="44" y="145" width="330" height="12" rx="6" fill="#cbd5e1"/>
+      <rect x="44" y="184" width="112" height="30" rx="8" fill="#2563eb"/>
+    </g>
+    <g transform="translate(562 0)">
+      <rect width="510" height="250" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+      <rect width="510" height="44" rx="14" fill="#ffffff"/>
+      <text x="18" y="28" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="700">2. Form Filled</text>
+      <rect x="18" y="62" width="474" height="168" rx="10" fill="#eef1f5"/>
+      <rect x="44" y="88" width="405" height="34" rx="8" fill="#ffffff" stroke="#cbd5e1"/>
+      <rect x="44" y="136" width="405" height="34" rx="8" fill="#ffffff" stroke="#cbd5e1"/>
+      <rect x="337" y="188" width="112" height="30" rx="8" fill="#16a34a"/>
+    </g>
+    <g transform="translate(0 298)">
+      <rect width="510" height="250" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+      <rect width="510" height="44" rx="14" fill="#ffffff"/>
+      <text x="18" y="28" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="700">3. Results</text>
+      <rect x="18" y="62" width="474" height="168" rx="10" fill="#eef1f5"/>
+      <rect x="44" y="88" width="126" height="112" rx="10" fill="#dbeafe"/>
+      <rect x="192" y="88" width="126" height="112" rx="10" fill="#dcfce7"/>
+      <rect x="340" y="88" width="126" height="112" rx="10" fill="#fef3c7"/>
+    </g>
+    <g transform="translate(562 298)">
+      <rect width="510" height="250" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+      <rect width="510" height="44" rx="14" fill="#ffffff"/>
+      <text x="18" y="28" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="700">4. Saved</text>
+      <rect x="18" y="62" width="474" height="168" rx="10" fill="#eef1f5"/>
+      <circle cx="255" cy="126" r="38" fill="#dcfce7"/>
+      <path d="M237 126l13 13 28-34" fill="none" stroke="#16a34a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="156" y="184" width="198" height="14" rx="7" fill="#94a3b8"/>
+    </g>
+  </g>
+</svg>
